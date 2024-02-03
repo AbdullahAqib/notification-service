@@ -1,0 +1,10 @@
+server:
+  port: 9193
+
+spring:
+  application:
+    name: Notification-Service
+
+firebase:
+  endpoint: https://fcm.googleapis.com/fcm/send
+  authorization.key:
